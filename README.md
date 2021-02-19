@@ -3,9 +3,6 @@
 VBA Challenge
 
 Code is StockAnalysis.vbs
+working spreadsheet alphabetical_testing2.xlsm
 
-Known issues:
-
-- Last stock placement.
-- Formating, needs color
-
+Now with Color formating and bonus details
